@@ -15,7 +15,7 @@ void main() {
               mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text("Olá mundo!"),
-              Text("23/03/2026"),
+              Icon(Icons.add_location_sharp),
             ],
           ),
         ),
